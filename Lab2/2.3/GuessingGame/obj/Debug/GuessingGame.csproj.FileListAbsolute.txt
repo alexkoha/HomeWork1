@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.3\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.3\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.3\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.3\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.3\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.3\GuessingGame\obj\Debug\GuessingGame.pdb

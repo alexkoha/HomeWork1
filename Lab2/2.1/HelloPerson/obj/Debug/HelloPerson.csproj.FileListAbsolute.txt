@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\HelloPerson\bin\Debug\HelloPerson.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\HelloPerson\bin\Debug\HelloPerson.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\HelloPerson\bin\Debug\HelloPerson.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\HelloPerson\obj\Debug\HelloPerson.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\HelloPerson\obj\Debug\HelloPerson.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\HelloPerson\obj\Debug\HelloPerson.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.1\HelloPerson\bin\Debug\HelloPerson.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.1\HelloPerson\obj\Debug\HelloPerson.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.1\HelloPerson\obj\Debug\HelloPerson.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.1\HelloPerson\bin\Debug\HelloPerson.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.1\HelloPerson\bin\Debug\HelloPerson.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.1\HelloPerson\obj\Debug\HelloPerson.csprojResolveAssemblyReference.cache

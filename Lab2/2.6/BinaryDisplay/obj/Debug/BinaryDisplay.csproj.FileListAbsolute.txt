@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplay\bin\Debug\BinaryDisplay.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplay\bin\Debug\BinaryDisplay.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplay\bin\Debug\BinaryDisplay.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplay\obj\Debug\BinaryDisplay.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplay\obj\Debug\BinaryDisplay.pdb

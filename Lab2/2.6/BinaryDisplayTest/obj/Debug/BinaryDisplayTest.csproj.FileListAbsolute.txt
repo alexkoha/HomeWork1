@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplayTest\obj\Debug\BinaryDisplayTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplayTest\bin\Debug\BinaryDisplayTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplayTest\bin\Debug\BinaryDisplayTest.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplayTest\bin\Debug\BinaryDisplay.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplayTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplayTest\bin\Debug\BinaryDisplay.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplayTest\obj\Debug\BinaryDisplayTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.6\BinaryDisplayTest\obj\Debug\BinaryDisplayTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.7\DolarStairs\bin\Debug\DolarStairs.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.7\DolarStairs\bin\Debug\DolarStairs.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.7\DolarStairs\bin\Debug\DolarStairs.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.7\DolarStairs\obj\Debug\DolarStairs.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.7\DolarStairs\obj\Debug\DolarStairs.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.7\DolarStairs\obj\Debug\DolarStairs.pdb

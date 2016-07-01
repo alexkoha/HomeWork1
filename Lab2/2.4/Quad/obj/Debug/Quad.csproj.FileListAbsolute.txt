@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\Quad\bin\Debug\Quad.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\Quad\bin\Debug\Quad.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\Quad\bin\Debug\Quad.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\Quad\obj\Debug\Quad.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\Quad\obj\Debug\Quad.pdb

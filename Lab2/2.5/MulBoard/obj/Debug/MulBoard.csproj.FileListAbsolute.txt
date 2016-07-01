@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.5\MulBoard\bin\Debug\MulBoard.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.5\MulBoard\bin\Debug\MulBoard.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.5\MulBoard\bin\Debug\MulBoard.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.5\MulBoard\obj\Debug\MulBoard.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.5\MulBoard\obj\Debug\MulBoard.pdb

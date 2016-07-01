@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\QuadTest\bin\Debug\QuadTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\QuadTest\bin\Debug\QuadTest.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\QuadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\QuadTest\bin\Debug\Quad.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\QuadTest\bin\Debug\Quad.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\QuadTest\obj\Debug\QuadTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\QuadTest\obj\Debug\QuadTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab2\2.4\QuadTest\obj\Debug\QuadTest.pdb

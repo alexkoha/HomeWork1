@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.3\Primes\bin\Debug\Primes.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.3\Primes\bin\Debug\Primes.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.3\Primes\bin\Debug\Primes.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.3\Primes\obj\Debug\Primes.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.3\Primes\obj\Debug\Primes.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.3\Primes\obj\Debug\Primes.pdb

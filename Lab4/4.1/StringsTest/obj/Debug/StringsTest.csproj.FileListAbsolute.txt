@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\StringsTest\bin\Debug\StringsTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\StringsTest\bin\Debug\StringsTest.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\StringsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\StringsTest\bin\Debug\Strings.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\StringsTest\bin\Debug\Strings.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\StringsTest\obj\Debug\StringsTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\StringsTest\obj\Debug\StringsTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\StringsTest\obj\Debug\StringsTest.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\Strings\StringsTest\bin\Debug\StringsTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\Strings\StringsTest\bin\Debug\StringsTest.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\Strings\StringsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\Strings\StringsTest\bin\Debug\Strings.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\Strings\StringsTest\bin\Debug\Strings.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\Strings\StringsTest\obj\Debug\StringsTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\Strings\StringsTest\obj\Debug\StringsTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab4\4.1\Strings\StringsTest\obj\Debug\StringsTest.pdb

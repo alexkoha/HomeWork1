@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1+5.2\Shapes\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1+5.2\Shapes\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1+5.2\Shapes\ShapesApp\bin\Debug\ShapesApp.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1+5.2\Shapes\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1+5.2\Shapes\ShapesApp\bin\Debug\ShapeLib.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1+5.2\Shapes\ShapesApp\bin\Debug\ShapeLib.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1+5.2\Shapes\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1+5.2\Shapes\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapeLib.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapeLib.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.1\Accounts\AccountApplication\bin\Debug\AccountApplication.exe.config
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.1\Accounts\AccountApplication\bin\Debug\AccountApplication.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.1\Accounts\AccountApplication\bin\Debug\AccountApplication.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.1\Accounts\AccountApplication\bin\Debug\AccountsLib.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.1\Accounts\AccountApplication\bin\Debug\AccountsLib.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.1\Accounts\AccountApplication\obj\Debug\AccountApplication.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.1\Accounts\AccountApplication\obj\Debug\AccountApplication.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab3\3.1\Accounts\AccountApplication\obj\Debug\AccountApplication.pdb

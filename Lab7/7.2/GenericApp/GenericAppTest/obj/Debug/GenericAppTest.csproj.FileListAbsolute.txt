@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.2\GenericApp\GenericAppTest\bin\Debug\GenericAppTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.2\GenericApp\GenericAppTest\bin\Debug\GenericAppTest.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.2\GenericApp\GenericAppTest\bin\Debug\GenericApp.exe
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.2\GenericApp\GenericAppTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.2\GenericApp\GenericAppTest\bin\Debug\GenericApp.pdb
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.2\GenericApp\GenericAppTest\obj\Debug\GenericAppTest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.2\GenericApp\GenericAppTest\obj\Debug\GenericAppTest.dll
+C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.2\GenericApp\GenericAppTest\obj\Debug\GenericAppTest.pdb

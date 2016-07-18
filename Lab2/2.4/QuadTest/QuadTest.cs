@@ -33,6 +33,7 @@ namespace QuadTest
             Equation test = new Equation();
             var x = test.Resolve(5, 1, 1);
 
+            //Please notice the order of the argument. The expected argument come first
             Assert.AreEqual(x, null);
         }
 

@@ -2,6 +2,7 @@
 
 namespace Quad
 {
+    //Nice idea to create a class for this
     public class Equation
     {
         public double[] Resolve(double a, double b, double c)

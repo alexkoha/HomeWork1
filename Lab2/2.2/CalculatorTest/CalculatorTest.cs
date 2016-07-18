@@ -6,6 +6,8 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CalculatorTest
 {
+    //Consider extracting each class to different file
+
     [TestClass]
     public class TestCalculatorOperetionAdd
     {

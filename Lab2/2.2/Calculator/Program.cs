@@ -25,8 +25,10 @@ namespace Calculator
 
     }
 
+    //Crashes for invalid input
     public class Program
     {
+        //it s not a good idea to use static field in this use ase
         private static double _a;
         private static double _b;
         private static string _action;
@@ -56,6 +58,8 @@ namespace Calculator
         private static void RecieveData()
         {
             bool isIllegalSign;
+
+            //Not input validation...
 
             Console.WriteLine("Enter first number: ");
             _a = double.Parse(Console.ReadLine());

@@ -3,6 +3,7 @@ using BinaryDisplay;
 
 namespace BinaryDisplayTest
 {
+    //You can add more UnitTests. You are checking only the number of "1".
     [TestClass]
     public class TestBinaryDisplay
     {

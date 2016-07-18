@@ -3,14 +3,21 @@
 
 namespace GuessingGame
 {
+    //Why did you create a new class and left all of the logic outside?
     public class Game
     {
         private int _guessies;
         private readonly int _randNum = new Random().Next(1, 101);
 
+        //C# 6 features. Awesome!
+
+            //What this property does?
         public int Guessies => _guessies;
+
+        //Where do you update this property?
         public int RandNum => _randNum;
 
+        //Hmm I don't like this hardcoded solution. If you'd go this way, they consider using enums.
         public int MakeGuessies(int guess) // returns : 0-failed ; 1-win ; 2-too small ; 3-too big;
         {
             _guessies++;
@@ -33,9 +40,12 @@ namespace GuessingGame
 
     class Program
     {
+        //Consider seperating the code input methods and classes
         static void Main()
         {
             Console.WriteLine("Let's play ! guess the number ... ");
+
+            //Not a good name for a variable
             var newGame = new Game();
             int run = 3;
             int guess = 0;

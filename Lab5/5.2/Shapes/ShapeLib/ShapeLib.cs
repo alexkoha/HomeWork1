@@ -65,6 +65,17 @@ namespace ShapeLib
             sb.AppendLine("Rectangle : ").AppendLine("Hight : " + _hight).AppendLine("Widgt : " + _width);
         }
 
+        /**
+        Good thinking with delegating the CompareTo method to the number!
+
+        However, returning '1' is not what you should have done:
+
+        You need to throw either ArgumentNullException or ArgumentException when a provided method argument is not valid for a method's use.!--
+
+        '1' means that the current instance is 'quantifiably greater' than another.
+        Implementations of this interface are used by Sorting algortihms and LINQ, so you shouldn't really behave as if everything's OK.
+
+        */
         public int CompareTo(object obj)
         {
             if (obj == null) return 1;
@@ -128,8 +139,10 @@ namespace ShapeLib
             get { return _radiusOne * _radiusTwo * Math.PI; }
         }
 
+        //Very good thinking
         public override void Display()
         {
+          
             StringBuilder sb = new StringBuilder();
             Write(sb);
             Console.WriteLine("Elipse : ");
@@ -143,6 +156,7 @@ namespace ShapeLib
             sb.AppendLine("Circle : ").AppendLine("Radius One: " + _radiusOne).AppendLine("Radius Two: " + _radiusTwo); 
         }
 
+        //Same comments as before
         public int CompareTo(object obj)
         {
             if (obj == null) return 1;

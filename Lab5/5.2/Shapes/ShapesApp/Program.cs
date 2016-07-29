@@ -34,6 +34,19 @@ namespace ShapesApp
             }
         }
 
+        /**
+            Very good!
+            Consider this implementation:
+
+            foreach (var persistable in Shapes.OfType<IPersist>())
+            {
+               persistable.Write(st);
+            }
+
+        OfType will select only members which are assignable to an IPersist reference and return such a collection
+        https://msdn.microsoft.com/en-us/library/bb360913(v=vs.110).aspx
+
+        */
         public void Save(StringBuilder sb)
         {
             foreach (var shape in ShapesList)

@@ -4,3 +4,9 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersApp\bin\Deb
 C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersApp\obj\Debug\CustomersApp.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersApp\obj\Debug\CustomersApp.exe
 C:\Users\Alex\Desktop\CodeValue\Labes\Lab7\7.1\CustomersApp\CustomersApp\obj\Debug\CustomersApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab7\7.1\CustomersApp\CustomersApp\bin\Debug\CustomersApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab7\7.1\CustomersApp\CustomersApp\obj\Debug\CustomersApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab7\7.1\CustomersApp\CustomersApp\obj\Debug\CustomersApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab7\7.1\CustomersApp\CustomersApp\bin\Debug\CustomersApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab7\7.1\CustomersApp\CustomersApp\bin\Debug\CustomersApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab7\7.1\CustomersApp\CustomersApp\obj\Debug\CustomersApp.csprojResolveAssemblyReference.cache

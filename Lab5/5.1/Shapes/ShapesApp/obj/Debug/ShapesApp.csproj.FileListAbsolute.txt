@@ -14,3 +14,11 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\bin\Debug\Shapes
 C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapeLib.dll
 C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapeLib.pdb
 C:\Users\Alex\Desktop\CodeValue\Labes\Lab5\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab5\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab5\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapesApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapeLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab5\5.1\Shapes\ShapesApp\bin\Debug\ShapeLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Alex Kohatzki\HomeWork1\Lab5\5.1\Shapes\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache

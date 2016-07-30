@@ -13,10 +13,25 @@ namespace ShapesApp
             ShapesList = new ArrayList();
         }
 
+        //Very Good!
         public int Count => ShapesList.Count;
 
+         /*
+            Please carefully consider the following notes:
+
+            1)Returning a shape would be better for client code
+
+            2) The user of this code will most likely expect that either a value is returned, or an exception will be thrown.
+            Returning null will cause his code to throw a NullReferenceException.
+            The best thing to do here is naively access the ArrayList's indexer and hope for the best.
+            This is since the ArrayList's indexer will behave accordingly, and your class is no more than a wrapper around it.
+        */
         public object this[int index] => index < ShapesList.Count ? ShapesList[index] : null;
 
+        /**
+            Input validation!
+        
+        */
         public void Add(Shape newShape)
         {
             ShapesList.Add(newShape);

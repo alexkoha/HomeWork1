@@ -26,9 +26,10 @@ namespace CustomersApp
             Console.WriteLine();
         }
 
+        //Implementation inconsistent with interface documentation
         public int CompareTo(Customer other)
         {
-            if (other == null) return 1;
+            if (other == null) return 1;//Consider throwing an exception
 
             return String.Compare(_name, other._name);
         }
@@ -42,6 +43,7 @@ namespace CustomersApp
 
     }
 
+    //Implementation inconsistent with interface documentation
     public class AnotherCustomerComparer : IComparer<Customer> 
     {
         public int Compare(Customer x, Customer y)

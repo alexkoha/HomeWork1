@@ -17,6 +17,7 @@ namespace AccountsLib
             return _money;
         }
 
+        //What about addMoney being negative? 
         public void Deposit(int addMoney)
         {
             _money += addMoney;
@@ -24,6 +25,7 @@ namespace AccountsLib
 
         public bool Withdraw(int withdrawMoney)
         {
+            
             if (_money >= withdrawMoney)
             {
                 _money -= withdrawMoney;
@@ -35,10 +37,12 @@ namespace AccountsLib
             }
         }
 
+        //Why the ref? 
         public bool Transfer(ref Account to , int amount)
         {
             if (Withdraw(amount))
             {
+                //to.Deposite(amount)
                 to._money += amount;
                 return true;
             }

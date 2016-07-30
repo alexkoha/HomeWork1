@@ -3,6 +3,7 @@ using Strings;
 
 namespace StringsTest
 {
+    //Nice
     [TestClass]
     public class TestSplitedTools
     {

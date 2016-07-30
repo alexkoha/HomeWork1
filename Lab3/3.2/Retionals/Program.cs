@@ -2,16 +2,23 @@
 
 namespace Retionals
 {
-    struct Retionals
+    //It might be abeeter idea to extract it to a different class
+    //didn't override object.Equals.
+    //Where are the numerator and denomirator properties?
+    //Where is the double value property?
+    //Add and Mul shouldn't be static. 
+    struct Rational
     {
         private int _numerator;
         private int _denomirator;
         private double _result;
 
-        public Retionals(int numerator, int denomirator)
+        public Rational(int numerator, int denomirator)
         {
             _numerator = numerator;
             _denomirator = denomirator;
+
+            //Maybe it was better to throw an exception
             if (_denomirator == 0)
             {
                 _result = 1;
@@ -22,7 +29,7 @@ namespace Retionals
             }
         }
 
-        public Retionals(int numerator)
+        public Rational(int numerator)
         {
             _numerator = numerator;
             _result = numerator;
@@ -45,33 +52,36 @@ namespace Retionals
             _result = (_denomirator != 0) ? (double)_numerator / _denomirator : 0;
         }
 
-        public static Retionals Add(Retionals a, Retionals b)
+        //Why a static method? This is wrong.
+        public static Rational Add(Rational a, Rational b)
         {
-            Retionals newRetional = new Retionals(0, 0)
+            Rational newRational = new Rational(0, 0)
             {
                 _numerator = a._numerator*b._denomirator + b._numerator*a._denomirator,
                 _denomirator = a._denomirator*b._denomirator
             };
 
-            newRetional._result = (newRetional._denomirator != 0) ? (double)newRetional._numerator/newRetional._denomirator : 0;
+            newRational._result = (newRational._denomirator != 0) ? (double)newRational._numerator/newRational._denomirator : 0;
 
-            return newRetional;
+            return newRational;
         }
 
-        public static Retionals Mul(Retionals a, Retionals b)
+        //Static method? this is wrong.
+        public static Rational Mul(Rational a, Rational b)
         {
-            Retionals newRetional = new Retionals(0, 0)
+            Rational newRational = new Rational(0, 0)
             {
                 _numerator = a._numerator*b._numerator,
                 _denomirator = a._denomirator*b._denomirator
             };
 
-            newRetional._result = (newRetional._denomirator != 0) ? (double)newRetional._numerator / newRetional._denomirator : 0;
+            newRational._result = (newRational._denomirator != 0) ? (double)newRational._numerator / newRational._denomirator : 0;
 
-            return newRetional;
+            return newRational;
         }
 
-        public bool Equals(Retionals b)
+        //Not good. This isn't object.Equals.
+        public bool Equals(Rational b)
         {
             return (_result == b._result);
         }
@@ -87,25 +97,22 @@ namespace Retionals
     {
         static void Main()
         {
-            Retionals oneRetionls = new Retionals(2,8);
-            Retionals twoRetionals = new Retionals(4, 16);
 
-            Console.WriteLine("First Retionl : " + oneRetionls.ToString());
-            Console.WriteLine("Second Retionl : " + twoRetionals.ToString());
-            
-            // add
-            Retionals addRetionals = Retionals.Add(oneRetionls, twoRetionals);
-            Console.WriteLine("after add : " + addRetionals.ToString());
-            //Mul
-            Retionals mulRetionals = Retionals.Mul(oneRetionls, twoRetionals);
-            Console.WriteLine("after mul : " + mulRetionals.ToString());
+            Rational num1 = new Rational(1, 2);
+            Rational num2 = new Rational(1, 2);
 
-            //reduce
-            oneRetionls.Reduce();
-            twoRetionals.Reduce();
+            Rational num3 = Rational.Add(num1, num2);
 
-            Console.WriteLine("equal ? : " + oneRetionls.Equals(twoRetionals));
-            
+            Rational num4 = Rational.Mul(num2, num2);
+
+            Rational num6 = new Rational(2, 4);
+            Rational num7 = new Rational(2, 4);
+            num7.Reduce();
+
+
+            Console.WriteLine($"{num1} + {num2} = {num3}");
+            Console.WriteLine($"{num2} * {num2} = {num4}");
+            Console.WriteLine($"{num6} reduced {num7}");
         }
     }
 }

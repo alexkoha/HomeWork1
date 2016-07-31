@@ -17,6 +17,7 @@ namespace Primes
             return true;
         }
 
+        //Should return an array
         public static List<int> CalcPrimes(int min, int max)
         {
             var arrayList = new List<int>();

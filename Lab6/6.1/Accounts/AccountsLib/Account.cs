@@ -21,12 +21,13 @@ namespace AccountsLib
 
         public void Deposit(int addMoney)
         {
-            if (addMoney<0) throw new ArgumentOutOfRangeException();
+            if (addMoney < 0) throw new ArgumentOutOfRangeException();
             _money += addMoney;
         }
 
         public bool Withdraw(int withdrawMoney)
         {
+            //You should have added a message to the exception
             if (withdrawMoney < 0) throw new ArgumentOutOfRangeException();
 
             if (_money >= withdrawMoney)

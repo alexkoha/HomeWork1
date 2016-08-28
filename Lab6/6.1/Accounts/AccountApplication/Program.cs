@@ -58,6 +58,7 @@ namespace AccountApplication
             }
             catch (ArgumentOutOfRangeException )
             {
+                //You should have used the message from the exception
                 Console.WriteLine("\nAmount can't be negativ.\nOperation aborted !\n");
             }
 
